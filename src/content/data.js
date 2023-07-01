@@ -1,0 +1,65 @@
+export const data = [
+    {
+      "name": "Beach",
+      "url": "/images/beach.jpg",
+      "description": "Beach",
+      "date": "2020-01-01",
+      "type": "image/jpg",
+    },
+    {
+      "name": "Delta",
+      "url": "/images/delta.jpg",
+      "description": "Delta",
+      "date": "2020-01-02",
+      "type": "image/jpg",
+    },
+    {
+      "name": "Desert",
+      "url": "/images/desert.jpg",
+      "description": "Desert",
+      "date": "2020-01-03",
+      "type": "image/jpg",
+    },
+    {
+      "name": "Forest",
+      "url": "/images/forest.jpg",
+      "description": "Forest",
+      "date": "2020-01-04",
+      "type": "image/jpg",
+    },
+    {
+      "name": "Mountain",
+      "url": "/images/mountain.jpg",
+      "description": "Mountain",
+      "date": "2020-01-05",
+      "type": "image/jpg",
+    },
+    {
+      "name": "Night Sky",
+      "url": "/images/nightsky.jpg",
+      "description": "Night Sky",
+      "date": "2020-01-06",
+      "type": "image/jpg",
+    },
+    {
+      "name": "Ocean",
+      "url": "/images/ocean.jpg",
+      "description": "Ocean",
+      "date": "2020-01-07",
+      "type": "image/jpg",
+    },
+    {
+      "name": "River",
+      "url": "/images/river.jpg",
+      "description": "River",
+      "date": "2020-01-08",
+      "type": "image/jpg",
+    },
+    {
+      "name": "Ruins",
+      "url": "/images/ruins.jpg",
+      "description": "Ruins",
+      "date": "2020-01-09",
+      "type": "image/jpg",
+    }
+  ]
